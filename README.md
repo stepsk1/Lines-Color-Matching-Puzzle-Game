@@ -1,2 +1,14 @@
-#  Lines Color Matching Puzzle Game
- Welcome to Lines, a captivating color-matching puzzle game developed in C#. Connect 5+ balls of the same color horizontally, vertically, or diagonally to score points and compete locally. This project, born as a university exercise, showcases programming prowess with features like dynamic database decisions using the Factory Pattern, seamless connections via the Singleton Pattern, and strategic pathfinding through an efficient BFS algorithm. The game offers an immersive experience with a clock for precise timing, subtle sound effects, and a polished design with fresh colors. Explore the code, challenge yourself, and immortalize your high scores in the database. 
+# Mini Game "Lines"
+
+Developed a C# mini-game where players
+connect 5+ balls of the same color to score points
+and compete locally.
+Implemented Factory and Singleton patterns to
+ensure robust database interactions and seamless
+connections.
+Utilized BFS algorithm for pathfinding, integrated
+a clock for strategic gameplay, and added subtle
+sound effects for an immersive experience.
+
+Technologies: C#, SQL, Factory Pattern, Singleton
+Pattern, BFS Algorithm, GitHub
